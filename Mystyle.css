@@ -1,0 +1,7 @@
+.header {
+    float: middle;
+    margin: auto;
+    text-transform: capitalize; 
+    width: 100%;
+    font-size: 80px;
+}
